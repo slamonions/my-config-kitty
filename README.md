@@ -1,4 +1,4 @@
-# 🐱 my-config-kitty
+#  my-config-kitty
 
 Configuration file for the [Kitty](https://sw.kovidgoyal.net/kitty/) terminal, designed in the dark Dracula color scheme with convenient settings.
 
