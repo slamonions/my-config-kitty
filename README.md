@@ -20,3 +20,7 @@
    ```bash
    mkdir -p ~/.config/kitty
    cp kitty.conf ~/.config/kitty/
+
+## 📄 License
+
+The project is distributed under the [MIT](LICENSE) license.
