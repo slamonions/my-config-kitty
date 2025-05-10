@@ -20,6 +20,7 @@ This config is designed for:
 ```bash
 mkdir -p ~/.config/kitty
 cp kitty.conf ~/.config/kitty/
+```
 
 ## 📄 License
 
