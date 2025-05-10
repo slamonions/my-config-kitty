@@ -1,25 +1,25 @@
 # 🐱 my-config-kitty
 
-Конфигурационный файл для терминала [Kitty](https://sw.kovidgoyal.net/kitty/), оформленный в тёмной цветовой схеме Dracula с удобными настройками.
+Configuration file for the [Kitty](https://sw.kovidgoyal.net/kitty/) terminal, designed in the dark Dracula color scheme with convenient settings.
 
-## 📋 Описание
+## 📋 Description
 
-Этот конфиг предназначен для:
+This config is designed for:
 
-- Прозрачного, компактного окна терминала
-- Поддержки Nerd Fonts (например, FiraCode Nerd Font)
-- Удобных горячих клавиш
-- Цветовой схемы Dracula
-- Аккуратного курсора и отступов
+- Transparent, compact terminal window
+- Support for Nerd Fonts (for example, FiraCode Nerd Font)
+- Convenient hotkeys
+- Dracula color scheme
+- Neat cursor and indents
 
-## 🛠 Установка
+## 🛠 Installation
 
-1. Убедитесь, что у вас установлен терминал `kitty`.
-2. Скопируйте файл `kitty.conf` в конфигурационную папку:
+1. Make sure you have the `kitty` terminal installed.
+2. Copy the `kitty.conf` file to the configuration folder:
 
-   ```bash
-   mkdir -p ~/.config/kitty
-   cp kitty.conf ~/.config/kitty/
+```bash
+mkdir -p ~/.config/kitty
+cp kitty.conf ~/.config/kitty/
 
 ## 📄 License
 
