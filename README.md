@@ -55,11 +55,18 @@ Restart Kitty after making changes to apply them.
 
 ---
 
-## 📸 Screenshot  
+## 📸 Screenshots
+## Basic
+![Kitty Terminal with Basic Theme](https://github.com/user-attachments/assets/424fcbd0-8ad1-4150-a503-c49ca80cc332)
+## Dracula
+<img width="1018" height="540" alt="Image" src="https://github.com/user-attachments/assets/5ac5ce96-043e-47bb-a7c9-9c490787a4df" />
 
-![Kitty Terminal with Dracula Theme](https://github.com/user-attachments/assets/424fcbd0-8ad1-4150-a503-c49ca80cc332)
+## Gruvbox Dark
+<img width="1020" height="542" alt="Image" src="https://github.com/user-attachments/assets/c0486bd0-99e1-46ba-a890-36faf01c726d" />
 
----
+## Tokyo Night
+<img width="1019" height="541" alt="Image" src="https://github.com/user-attachments/assets/4046df0c-25f9-4ba2-a87e-dbfb374274c8" />
+
 
 ## 📝 Notes  
 
